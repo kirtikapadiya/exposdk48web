@@ -1,2 +1,2 @@
-# expo-pixi-signature-crash
-react native expo-pixi signature crash with latest expo-sdk-44
+# expo web
+react native expo sdk 48 web
